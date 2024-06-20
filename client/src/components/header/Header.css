@@ -1,0 +1,14 @@
+.navbar{
+ background-color:rgb(177, 105, 105);
+ /* background-color: rgba(140, 185, 137, 0.664); */
+ 
+}
+
+.navbar-brand .picture{
+    border-radius:50px;
+}
+
+.nav-item .nav-link{
+    font-size: 25px;
+    /* font-family:cursive; */
+}

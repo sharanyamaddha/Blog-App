@@ -1,0 +1,23 @@
+.articleHome{
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.articleHome .artcleImage{
+   
+    max-width: 450px;
+    width: 100%;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px rgb(129, 121, 121);
+}
+
+.articleHome h1{
+   
+    /* color: var(--light-olive); */
+    padding: 20px;
+}
+.articleHome p{
+    max-width: 900px;
+    margin: auto;
+    padding: 30px 20px;
+}

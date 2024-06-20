@@ -1,0 +1,27 @@
+h2{
+    color:rgb(70, 49, 5)
+}
+
+button[type=submit]{
+    background-color:rgba(17, 29, 95, 0.724);
+    
+    padding: 5px 10px;
+    border: none;
+    border-radius: 7px;
+}
+button:hover{
+    background-color: rgba(4, 35, 100, 0.948);
+}
+
+ /* .card-body{
+    background-color:whitesmoke ;
+}  */
+
+  :root {
+    --brown: #8B4513; /* Brown color */
+  }
+
+  .form-label{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
